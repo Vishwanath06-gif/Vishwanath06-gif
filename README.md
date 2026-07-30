@@ -1,4 +1,4 @@
-# Hey There👋:
+# Hey There👋
 🔭 I'm currently working on PodCaster – A Full-Stack Podcast Streaming Platform<br>🌱 I'm currently learning Docker, Kubernetes, AWS, DevOps, and System Design<br>👯 I'm looking to collaborate on Open Source MERN Stack & Full-Stack Web Development Projects<br>🤝 I'm looking for help with CI/CD, Cloud Deployment, and Microservices<br>💬 Ask me about React, Node.js, Express.js, MongoDB, JavaScript, REST APIs, JWT Authentication, Docker & Kubernetes<br>⚡ Fun fact: I learn best by building real-world projects and experimenting with new technologies.
 
 
