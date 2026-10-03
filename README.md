@@ -1,5 +1,17 @@
-# Hey There👋
-🔭 I'm currently working on PodStream – A Full-Stack Podcast Streaming Platform<br>🌱 I'm currently learning Docker, Kubernetes, AWS, DevOps, and System Design<br>👯 I'm looking to collaborate on Open Source MERN Stack & Full-Stack Web Development Projects<br>🤝 I'm looking for help with CI/CD, Cloud Deployment, and Microservices<br>💬 Ask me about React, Node.js, Express.js, MongoDB, JavaScript, REST APIs, JWT Authentication, Docker & Kubernetes<br>⚡ Fun fact: I learn best by building real-world projects and experimenting with new technologies.
+🔭 I'm currently working on **PodStream – A Full-Stack Podcast Streaming Platform**
+
+🌱 I'm currently learning **Quality Engineering, Software Testing, Automation Testing, Docker, Kubernetes, AWS, DevOps, and System Design**
+
+🧪 I'm currently exploring **API Testing, Backend Testing, Integration Testing, E2E Testing, Playwright, Jest/Vitest, Supertest, and CI/CD**
+
+👯 I'm looking to collaborate on **Open Source MERN Stack, Full-Stack Web Development & Quality Engineering Projects**
+
+🤝 I'm looking for help with **CI/CD, Cloud Deployment, Test Automation, and Microservices**
+
+💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, REST APIs, JWT Authentication, Docker, Kubernetes & Software Testing**
+
+⚡ Fun fact: **I learn best by building real-world projects and experimenting with new technologies.**
+
 
 
 ## 🌐 Socials:
